@@ -186,7 +186,3 @@ print("Final risk:", result['risk'])
 
 MIT License - feel free to use for educational purposes.
 
-## 👥 Authors
-
-Knowledge Representation & Reasoning Project - 2025
-
